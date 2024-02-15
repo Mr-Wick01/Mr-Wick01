@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mr-Wick01
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning c#,js and python
+- 🌱 I’m currently learning c#,js, web dev and python
 - 💞️ I’m looking to collaborate on any available projects to get my hands on deck
 - 📫 How to reach me ernestfiezeh@gmail.com
 
